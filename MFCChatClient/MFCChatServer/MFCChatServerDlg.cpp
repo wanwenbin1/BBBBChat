@@ -6,7 +6,7 @@
 #include "framework.h"
 #include "MFCChatServer.h"
 #include "MFCChatServerDlg.h"
-#include "afxdialogex.h"  //
+#include "afxdialogex.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
